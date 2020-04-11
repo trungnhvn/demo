@@ -20,25 +20,25 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Installation
 
-### git clone https://github.com/trungnhvn/demo.git
+#### git clone https://github.com/trungnhvn/demo.git
 
-### cd demo
+#### cd demo
 
-### composer update
+#### composer update
 
-### npm install && npm run dev
+#### npm install && npm run dev
 
-### php artisan key:generate
+#### php artisan key:generate
 
-### cp .env.example .env
+#### cp .env.example .env
 
-### create database, and then modify .env file appropriately
+#### create database, and then modify .env file appropriately
 
-### php artisan config:cache
+#### php artisan config:cache
 
-### php artisan migrate
+#### php artisan migrate
 
-### php artisan serve
+#### php artisan serve
 
 ## Issues
 
