@@ -42,7 +42,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 
 ## Issues
 
-If any issues, please send an e-mail to me via [taylor@laravel.com](mailto:trungnhvn@gmail.com). 
+If any issues, please send an e-mail to me via [trungnhvn@gmail.com](mailto:trungnhvn@gmail.com). 
 
 ## License
 
